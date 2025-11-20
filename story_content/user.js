@@ -2,13 +2,13 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5jroRmWsx2p":
+      case "6KXr2ZTevTL":
         Script1();
         break;
-      case "6NBe5QGjbkl":
+      case "65alUJPTxNw":
         Script2();
         break;
-      case "6NbqrrLDLCk":
+      case "6LpXNGlCsoY":
         Script3();
         break;
   }
@@ -67,7 +67,7 @@ var data = {
   "skor": skor
 };
 
-fetch("https://script.google.com/macros/s/AKfycbzhBgj3_IN7uV92JvOkcxbu79X1qPyA77DOCW-YuD7ZcxVVvSQ-c-VCACRRyH6orPKZBQ/exec", {
+fetch("https://script.google.com/macros/s/AKfycbxpdVYLkAscejJRnt3JJib9X3hcKeeM1Haj3fVtBXOvY9IVlt8_Nbpwztz4ZitT9Jwt1Q/exec", {
   method: "POST",
   mode: "no-cors",
   headers: {
